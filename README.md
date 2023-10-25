@@ -9,7 +9,7 @@
 
 This project was carried out during my studies at the University of Montpellier as a first year Software Engineering Masters Degree student.
 
-It is part of a project from the Decentralized Computing subject (subject code: HAI704I).
+It constitutes as an assignment from the Decentralized Computing subject (subject code: HAI704I).
 
 This RESTful API uses Spring Boot in order to publish webservices designed for a hotel booking context.
 
